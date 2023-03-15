@@ -129,9 +129,9 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
+                        "h": 260,
+                        "s": 85,
+                        "l": 60
                     },
                     "gx_secondary_base":
                     {
@@ -160,7 +160,8 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "wallpaper/castle_town.webm",
+                    "first_frame": "wallpaper/castle_town_first_frame.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
