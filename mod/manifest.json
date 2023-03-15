@@ -22,55 +22,55 @@
             {
                 "CLICK":
                 [
-                    "sound/click.mp3"
+                    "sound/snd_select_ch1.wav"
                 ],
                 "FEATURE_SWITCH_OFF":
                 [
-                    "sound/feature_switch_off.mp3"
+                    "sound/snd_bigcut_ch1.wav"
                 ],
                 "FEATURE_SWITCH_ON":
                 [
-                    "sound/feature_switch_on.mp3"
+                    "sound/snd_boost_ch1.wav"
                 ],
                 "HOVER":
                 [
-                    "sound/hover.mp3"
+                    "sound/snd_menumove_ch1.wav"
                 ],
                 "HOVER_UP":
                 [
-                    "sound/hover.mp3"
+                    "sound/snd_menumove_ch1.wav"
                 ],
                 "IMPORTANT_CLICK":
                 [
-                    "sound/important_click.mp3"
+                    "sound/snd_save_ch1.wav"
                 ],
                 "LEVEL_UPGRADE":
                 [
-                    "sound/level_upgrade.mp3"
+                    "sound/snd_usefountain.ogg"
                 ],
                 "LIMITER_OFF":
                 [
-                    "sound/limiter_off.mp3"
+                    "sound/snd_badexplosion_ch1.wav"
                 ],
                 "LIMITER_ON":
                 [
-                    "sound/limiter_on.mp3"
+                    "sound/snd_great_shine_ch1.ogg"
                 ],
                 "SWITCH_TOGGLE":
                 [
-                    "sound/switch.mp3"
+                    "sound/snd_bell_ch1.wav"
                 ],
                 "TAB_CLOSE":
                 [
-                    "sound/close_tab.mp3"
+                    "sound/snd_damage_ch1.wav"
                 ],
                 "TAB_INSERT":
                 [
-                    "sound/new_tab.mp3"
+                    "sound/snd_power_ch1.wav"
                 ],
                 "TAB_SLASH":
                 [
-                    "sound/tab_slash.mp3"
+                    "sound/snd_closet_impact_ch1.ogg"
                 ]
             },
             "keyboard_sounds":
