@@ -85,13 +85,11 @@
                 ],
                 "TYPING_LETTER":
                 [
-                    "keyboard/letter_1.wav",
-                    "keyboard/letter_2.wav",
-                    "keyboard/letter_3.wav"
+                    "keyboard/snd_txtral_ch1.wav"
                 ],
                 "TYPING_SPACE":
                 [
-                    "keyboard/space.wav"
+                    "keyboard/snd_txtral_ch1.wav"
                 ]
             },
             "page_styles":
